@@ -1,0 +1,80 @@
+[
+    {
+        "path": "wasp_ab/flag_0.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 5
+    },
+    {
+        "path": "wasp_ab/flag_1.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 6
+    },
+    {
+        "path": "wasp_ab/flag_2.png",
+        "down_hole": 1,
+        "up_hole": 0,
+        "wait": 8
+    },
+    {
+        "path": "wasp_ab/flag_3.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 10
+    },
+    {
+        "path": "wasp_ab/flag_4.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 12
+    },
+    {
+        "path": "wasp_ab/flag_5.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 6
+    },
+    {
+        "path": "wasp_ab/flag_6.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 13
+    },
+    {
+        "path": "wasp_ab/flag_7.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 6
+    },
+    {
+        "path": "wasp_ab/flag_8.png",
+        "down_hole": 1,
+        "up_hole": 0,
+        "wait": 22
+    },
+    {
+        "path": "wasp_ab/flag_9.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 12 
+    },
+    {
+        "path": "wasp_ab/flag_10.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 6
+    },
+    {
+        "path": "wasp_ab/flag_11.png",
+        "down_hole": 0,
+        "up_hole": 1,
+        "wait": 6
+    },
+    {
+        "path": "wasp_ab/flag_12.png",
+        "down_hole": 0,
+        "up_hole": 1,
+        "wait": 10
+    }
+]
