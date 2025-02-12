@@ -50,4 +50,16 @@ class Rec:
             return False  # Stops the key listener
         if key == keyboard.Key.insert:  # If INSERT is pressed, take a screenshot
             self.photo()
-        
+        if key == keyboard.Key.page_down:  # If PAGE DOWN is pressed, mark the last coordinate as a hole down
+            self.down_hole()
+        if key == keyboard.Key.page_up:  # If PAGE UP is pressed, mark the last coordinate as a hole up
+            self.up_hole()
+
+    # Starts the keyboard listener to record user inputs
+    def start(self):
+        with Listener(on_press=self.key_code) as listener:  # Listens for key presses
+            listener.join()  # Keeps the listener active
+
+# Creates an instance of the Rec class and starts recording
+record = Rec()
+record.start()
